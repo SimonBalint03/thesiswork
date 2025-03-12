@@ -3,7 +3,6 @@
 This is my thesis work created at the **University of Debrecen**. The game was built using the **Unity game engine**.
 
 The game is a calm, roguelike, exploration game with elements of board games and strategy games. It features **procedurally created** maps to explore with several items, quests and cities. This game is a calm experience created for players who enjoy exploring new, interesting worlds.
-Here’s a structured **GitHub README** for your project:  
 
 ## **Features**  
 - **Exploration & Mapping** – Discover and chart new territories. Later sell these maps in towns to earn money.  
