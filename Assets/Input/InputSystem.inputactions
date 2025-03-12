@@ -1,0 +1,34 @@
+{
+    "name": "InputSystem",
+    "maps": [
+        {
+            "name": "Debug",
+            "id": "5232b969-e233-4893-9912-43187b6e5bdf",
+            "actions": [
+                {
+                    "name": "OpenMenu",
+                    "type": "Value",
+                    "id": "363352b7-f782-49c8-a9d3-be175bbf3e9f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "93a77b7c-b967-480b-adc8-8364d219c488",
+                    "path": "<Keyboard>/home",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

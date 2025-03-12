@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c52085e9ebd85b4a8812390e94f79ef, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  AllItems:
+  - Id: discover_two
+    Name: Old Spyglass
+    Description: An old spyglass used to see further. Can reveal everything in a
+      2 tile radius.
+    Value: 80
+    Sprite: {fileID: -650585416, guid: 15c4e85892d71b64487b58d11ea5fd86, type: 3}
+    isBuyable: 1
+    Function: 1
+    IncreaseMovementAmount: 0
+    IncreaseInvSpaceAmount: 0
+    Type: 0
+  - Id: full_energy
+    Name: Cup of coffe
+    Description: A hot cup of coffe to fill your energy back up to maximum.
+    Value: 100
+    Sprite: {fileID: 97583442, guid: 15c4e85892d71b64487b58d11ea5fd86, type: 3}
+    isBuyable: 1
+    Function: 2
+    IncreaseMovementAmount: 0
+    IncreaseInvSpaceAmount: 0
+    Type: 0
+  - Id: see_through _forest
+    Name: Map of forests
+    Description: A detailed map of the nearby forests. Can help you see through any
+      forest tile.
+    Value: 300
+    Sprite: {fileID: -684462514, guid: 15c4e85892d71b64487b58d11ea5fd86, type: 3}
+    isBuyable: 1
+    Function: 3
+    IncreaseMovementAmount: 0
+    IncreaseInvSpaceAmount: 0
+    Type: 1
+  - Id: see_through _hill
+    Name: Map of hills
+    Description: A detailed map of the nearby hills and mountains. Can help you see
+      through any hill tile.
+    Value: 300
+    Sprite: {fileID: -947394807, guid: 15c4e85892d71b64487b58d11ea5fd86, type: 3}
+    isBuyable: 1
+    Function: 4
+    IncreaseMovementAmount: 0
+    IncreaseInvSpaceAmount: 0
+    Type: 1
+  - Id: increase_movement_5
+    Name: Used Hunting Boots
+    Description: Pair of old hunting boots. When worn you can move a little bit further
+      each turn.
+    Value: 400
+    Sprite: {fileID: -985204439, guid: 15c4e85892d71b64487b58d11ea5fd86, type: 3}
+    isBuyable: 1
+    Function: 5
+    IncreaseMovementAmount: 5
+    IncreaseInvSpaceAmount: 0
+    Type: 1
+  - Id: increase_movement_10
+    Name: New Hunting Boots
+    Description: A new pair of hunting boots. Can help you go much further.
+    Value: 650
+    Sprite: {fileID: -998222234, guid: 15c4e85892d71b64487b58d11ea5fd86, type: 3}
+    isBuyable: 1
+    Function: 5
+    IncreaseMovementAmount: 10
+    IncreaseInvSpaceAmount: 0
+    Type: 1
+  - Id: increase_inventory_3
+    Name: Pouch
+    Description: A small pouch allowing you to store 3 more items. (Including this)
+    Value: 600
+    Sprite: {fileID: 1900453612, guid: 15c4e85892d71b64487b58d11ea5fd86, type: 3}
+    isBuyable: 1
+    Function: 6
+    IncreaseMovementAmount: 10
+    IncreaseInvSpaceAmount: 3
+    Type: 1

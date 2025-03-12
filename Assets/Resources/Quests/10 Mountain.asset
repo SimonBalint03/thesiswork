@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ccd5fca544cd78499bfd30e19fe870b, type: 3}
+  m_Name: 10 Mountain
+  m_EditorClassIdentifier: 
+  id: 0
+  title: Discover a mountain range
+  description: Discover 10 new mountain tiles
+  isClaimed: 0
+  isCompleted: 0
+  started: 0
+  objectives:
+  - id: 0
+    title: Discover 10 new mountain tiles
+    currentProgress: 0
+    requiredProgress: 10
+    isCompleted: 0
+    type: 0
+    geographyType: 2
+  reward:
+    Type: 1
+    moneyAmount: 55
