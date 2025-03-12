@@ -8,7 +8,7 @@ The game is a calm, roguelike, exploration game with elements of board games and
 - **Exploration & Mapping** – Discover and chart new territories. Later sell these maps in towns to earn money.  
 - **Dynamic World** – Procedurally generated landscapes to explore.  
 - **Shopping System** – Sell maps or complete quests to earn money. Spend these coins on items that help you explore.  
-- **Low Poly Visual Style** – An interestin visual style making use of flat surfaces, while attempting to stay realistic.
+- **Low Poly Visual Style** – An interesting visual style, making use of flat surfaces, while attempting to stay realistic.
 - **Calm sound effects** - Calming sound effects, immersing you in the game's vibe.
 
 ## **Gameplay Loop**  
