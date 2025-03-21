@@ -1,4 +1,4 @@
-# **The Way Of The Mapmaker**  
+# **The Way Of The Mapmaker**  - (Work In Progress)
 
 This is my thesis work created at the **University of Debrecen**. The game was built using the **Unity game engine**.
 
